@@ -1,0 +1,45 @@
+message:
+  join: "{player} a rejoint!"
+  alreadyStart: "La partie a deja commence!"
+  starting: "Lancement dans {time} seconde"
+  start: "Lancement du jeu"
+  quit: "{player} a quitté!"
+  win: "La team {team} a gagné"
+
+location:
+  spawn:
+    x: 80x
+    y: 70
+    z: 80
+    world: "world"
+  spawnTeam1:
+    x: 90
+    y: 90
+    z: 90
+  spawnTeam2:
+    x: 120
+    y: 90
+    z: 120
+
+  zone:
+    zone1:
+      x1: 100
+      y1: 100
+      z1: 100
+      x2: 103
+      y2: 100
+      z2: 103
+    zone2:
+      x1: 120
+      y1: 100
+      z1: 120
+      x2: 123
+      y2: 100
+      z2: 123
+    zone3:
+      x1: 140
+      y1: 100
+      z1: 140
+      x2: 143
+      y2: 100
+      z2: 143
